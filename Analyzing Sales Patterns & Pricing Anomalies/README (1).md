@@ -25,6 +25,3 @@ This project delves into the sales data of Bahbud Botique, aiming to uncover ins
 1. Ensure you have Python installed along with Pandas, Matplotlib, Seaborn, and Mlxtend.
 2. Clone the repository to your local machine.
 3. Navigate to the project directory and run the Jupyter Notebook to view the analysis.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
